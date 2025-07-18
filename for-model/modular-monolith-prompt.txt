@@ -1,0 +1,1 @@
+Please implement a Modular Monolith application for a domain based on Spring Boot and DDD Extension using the attached service-specific event storming model-based Metadata. The structure and code to be configured must be implemented using the provided metadata and Rule files.

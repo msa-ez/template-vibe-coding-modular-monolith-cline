@@ -1,1 +1,0 @@
-# template-vibe-coding-modular-monolith-cline
