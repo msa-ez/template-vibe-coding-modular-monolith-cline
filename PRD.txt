@@ -1,4 +1,4 @@
-{{nameCamelCase}} Metadata:
+{{nameCamelCase}} DDD Model:
 {{{contexts.json}}}
 
 <function>
